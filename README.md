@@ -1,1 +1,9 @@
-# 4026450300652160
+/home301 / 301
+/home302 / 302
+/querystrings /?query=string 301
+/twitch https://twitch.tv
+/trailing /trailing/ 301
+/notrailing/ /nottrailing 301
+/page/ /page2/#fragment 301
+/blog/* https://blog.my.domain/:splat
+/products/:code/:name /products?code=:code&name=:name
